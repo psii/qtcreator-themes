@@ -14,10 +14,10 @@
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#ae81ff"/>
   <style name="String" foreground="#e6db74"/>
-  <style name="Type" foreground="#f92672"/>
-  <style name="Local" foreground="#87cde6"/>
+  <style name="Type" foreground="#88cee7" italic="true"/>
+  <style name="Local" foreground="#fd971f"/>
   <style name="Field" foreground="#abdc49"/>
-  <style name="Static" foreground="#f92672"/>
+  <style name="Static" foreground="#ae81ff"/>
   <style name="VirtualMethod" foreground="#e5e4e1" italic="true"/>
   <style name="Function" foreground="#e5e4e1"/>
   <style name="Keyword" foreground="#f82670"/>
